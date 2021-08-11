@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_description">Descrição</string>
+    <string name="label_data">Data</string>
+    <string name="label_time">Hora</string>
+    <string name="label_btn_new_task">Criar Tarefa</string>
+    <string name="label_btn_cancel">Cancelar</string>
+    <string name="tasks">Tarefas</string>
+    <string name="label_new_task_fab">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Detelar</string>
+</resources>
